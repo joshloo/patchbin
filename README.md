@@ -1,3 +1,7 @@
 # patchbin
-Run "python patchtsn.py <your IFWI binary>"
+
+Execute
+
+python patchtsn.py -yourIFWI.bin-
+
 You will get an IFWI binary with the same name as the output
